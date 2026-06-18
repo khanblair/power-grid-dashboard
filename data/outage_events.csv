@@ -1,0 +1,40 @@
+plant,source,start_time,end_time,duration_hrs,cause,mw_lost
+Bujagali,Hydro,2025-01-09 01:00:00,2025-01-09 08:00:00,8,Scheduled Maintenance,250
+Kiira,Hydro,2025-01-24 14:00:00,2025-01-25 09:00:00,20,Scheduled Maintenance,200
+Namanve Thermal,Thermal,2025-02-04 16:00:00,2025-02-04 20:00:00,5,Scheduled Maintenance,50
+Bujagali,Hydro,2025-02-05 23:00:00,2025-02-07 08:00:00,34,Forced Outage - Mechanical,250
+Bujagali,Hydro,2025-03-05 17:00:00,2025-03-07 03:00:00,35,Forced Outage - Mechanical,250
+Namanve Thermal,Thermal,2025-03-06 19:00:00,2025-03-09 11:00:00,65,Scheduled Maintenance,50
+Soroti Solar,Solar,2025-03-30 13:00:00,2025-03-30 18:00:00,6,Grid Fault,10
+Bujagali,Hydro,2025-04-02 19:00:00,2025-04-02 23:00:00,5,Forced Outage - Electrical,250
+Isimba,Hydro,2025-04-21 15:00:00,2025-04-23 04:00:00,38,Scheduled Maintenance,183
+Bujagali,Hydro,2025-05-03 17:00:00,2025-05-04 08:00:00,16,Scheduled Maintenance,250
+Isimba,Hydro,2025-05-05 21:00:00,2025-05-06 13:00:00,17,Grid Fault,183
+Kiira,Hydro,2025-05-07 15:00:00,2025-05-08 02:00:00,12,Grid Fault,200
+Namanve Thermal,Thermal,2025-05-07 23:00:00,2025-05-09 22:00:00,48,Fuel Supply Issue,50
+Namanve Thermal,Thermal,2025-05-18 14:00:00,2025-05-19 06:00:00,17,Scheduled Maintenance,50
+Namanve Thermal,Thermal,2025-05-20 08:00:00,2025-05-21 20:00:00,37,Scheduled Maintenance,50
+Namanve Thermal,Thermal,2025-05-20 21:00:00,2025-05-21 02:00:00,6,Scheduled Maintenance,50
+Soroti Solar,Solar,2025-06-10 19:00:00,2025-06-12 09:00:00,39,Scheduled Maintenance,10
+Namanve Thermal,Thermal,2025-06-27 13:00:00,2025-06-27 17:00:00,5,Forced Outage - Mechanical,50
+Bujagali,Hydro,2025-06-29 06:00:00,2025-06-29 12:00:00,7,Grid Fault,250
+Namanve Thermal,Thermal,2025-07-14 09:00:00,2025-07-14 12:00:00,4,Forced Outage - Mechanical,50
+Isimba,Hydro,2025-07-21 18:00:00,2025-07-22 02:00:00,9,Forced Outage - Electrical,183
+Namanve Thermal,Thermal,2025-07-21 19:00:00,2025-07-22 01:00:00,7,Grid Fault,50
+Isimba,Hydro,2025-07-24 18:00:00,2025-07-25 16:00:00,23,Grid Fault,183
+Nalubaale,Hydro,2025-08-01 22:00:00,2025-08-02 04:00:00,7,Forced Outage - Mechanical,180
+Soroti Solar,Solar,2025-08-02 19:00:00,2025-08-03 08:00:00,14,Scheduled Maintenance,10
+Namanve Thermal,Thermal,2025-08-05 14:00:00,2025-08-08 20:00:00,79,Scheduled Maintenance,50
+Isimba,Hydro,2025-08-11 19:00:00,2025-08-12 06:00:00,12,Forced Outage - Mechanical,183
+Kiira,Hydro,2025-08-25 18:00:00,2025-08-25 22:00:00,5,Forced Outage - Mechanical,200
+Isimba,Hydro,2025-08-31 05:00:00,2025-08-31 17:00:00,13,Scheduled Maintenance,183
+Kiira,Hydro,2025-09-10 13:00:00,2025-09-11 09:00:00,21,Forced Outage - Electrical,200
+Bujagali,Hydro,2025-09-12 10:00:00,2025-09-12 21:00:00,12,Grid Fault,250
+Namanve Thermal,Thermal,2025-09-17 10:00:00,2025-09-18 01:00:00,16,Scheduled Maintenance,50
+Soroti Solar,Solar,2025-10-05 21:00:00,2025-10-06 01:00:00,5,Grid Fault,10
+Isimba,Hydro,2025-10-11 22:00:00,2025-10-12 05:00:00,8,Forced Outage - Electrical,183
+Bujagali,Hydro,2025-10-26 10:00:00,2025-10-27 03:00:00,18,Forced Outage - Electrical,250
+Nalubaale,Hydro,2025-11-02 03:00:00,2025-11-03 22:00:00,44,Forced Outage - Mechanical,180
+Bujagali,Hydro,2025-12-21 05:00:00,2025-12-22 01:00:00,21,Forced Outage - Mechanical,250
+Namanve Thermal,Thermal,2025-12-22 05:00:00,2025-12-22 11:00:00,7,Scheduled Maintenance,50
+Namanve Thermal,Thermal,2025-12-23 01:00:00,2025-12-23 15:00:00,15,Forced Outage - Mechanical,50
